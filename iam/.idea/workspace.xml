@@ -10,6 +10,81 @@
       <change afterPath="$PROJECT_DIR$/../demo/test.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ginframe/go.mod" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ginframe/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.1.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.1.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.1.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.2.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.3.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.4.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.5.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.5.7-11-gb20f932.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.6.0-4-gb20f932.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.6.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.6.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.7.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.7.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-0.7.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.0.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.0.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.0.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.0.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.1.0-4-ge259267.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.1.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.2.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.4.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.6.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.6.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG/CHANGELOG-1.7.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/openapi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/docs/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/docs/policy_swagger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/docs/secret_swagger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/docs/user_swagger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/swagger/swagger.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ci/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iam-apiserver/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iam-authz-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iam-pump/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iam-watcher/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iamctl/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/docker/iamctl/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/package/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/gendocs/gen_iamctl_docs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/geniamdocs/gen_iam_docs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/geniamdocs/gen_iam_docs_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/geniamdocs/postprocessing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/geniamdocs/postprocessing_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/genman/gen_iam_man.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/genswaggertypedocs/swagger_type_docs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/genyaml/gen_iamctl_yaml.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/iam-apiserver/apiserver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/iam-authz-server/authzserver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/iam-pump/pump.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/iam-watcher/watcher.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/iamctl/iamctl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/access.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/cert/iam-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/cert/iam.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.20/iam-apiserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.20/iam-authz-server.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.20/keepalived.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.20/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.21/iam-apiserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.21/iam-authz-server.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.21/keepalived.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/ha/10.0.4.21/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iam-apiserver.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iam-authz-server.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iam-pump.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iam-watcher.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iam.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/iamctl.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/values-pre-env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/values-prod-env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/values-test-env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/values-with-nodeport.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/go.mod" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test1.go" afterDir="false" />
@@ -17,296 +92,7 @@
       <change afterPath="$PROJECT_DIR$/../test/test3.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test4.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test4.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/code/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/code/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/error/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/error/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/auth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/config/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/config/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/controller/v1/cache/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/controller/v1/cache/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/controller/v1/cache/cache_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/controller/v1/cache/cache_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/grpc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/run.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/run.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/mock_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/mock_service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/policy_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/policy_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/secret_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/secret_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/service_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/service/v1/user_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/service/v1/user_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/etcd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/policy_audit.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/policy_audit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/etcd/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/etcd/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/fake.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/fake.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/policy_audit.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/policy_audit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/fake/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/fake/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mock_store.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mock_store.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/mysql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/policy_audit.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/policy_audit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/mysql/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/mysql/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/policy_audit.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/policy_audit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/store.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/store.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/apiserver/store/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/apiserver/store/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/analytics/analytics.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/analytics/analytics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/analytics/analytics_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/analytics/analytics_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer/authorizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer/authorizer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/authorizer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/logger_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/logger_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/manager.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/manager.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/manager_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/manager_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/mock_authorization.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/mock_authorization.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/authorization/types.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/authorization/types.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/config/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/config/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/controller/v1/authorize/authorize.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/controller/v1/authorize/authorize.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/load/cache/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/load/cache/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/load/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/load/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/load/load.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/load/load.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/load/redis_signals.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/load/redis_signals.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/options/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/options/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/options/validation.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/options/validation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/run.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/run.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/apiserver/apiserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/apiserver/apiserver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/apiserver/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/apiserver/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/apiserver/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/apiserver/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/apiserver/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/apiserver/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/mock_store.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/mock_store.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/authzserver/store/store.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/authzserver/store/store.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/cmd.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/cmd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/color/color.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/color/color.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/completion/completion.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/completion/completion.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/info/info.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/info/info.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/args.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/args.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_show.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_show.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_sign.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_sign.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_verify.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/jwt/jwt_verify.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/new/new.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/new/new.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/options/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/options/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_create.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_create.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_delete.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_get.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_get.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_update.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/policy/policy_update.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/profiling.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/profiling.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_create.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_create.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_delete.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_get.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_get.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_update.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/secret/secret_update.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/set/set.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/set/set.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/set/set_db.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/set/set_db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_create.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_create.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_delete.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_get.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_get.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_update.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/user/user_update.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/util/factory.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/util/factory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/util/factory_client_access.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/util/factory_client_access.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/util/helpers.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/util/helpers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/util/iam_match_version.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/util/iam_match_version.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/validate/validate.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/validate/validate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/cmd/version/version.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/cmd/version/version.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/iamctl.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/iamctl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/interrupt/interrupt.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/interrupt/interrupt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/templates/command_groups.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/templates/command_groups.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/templates/markdown.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/templates/markdown.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/templates/normalizers.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/templates/normalizers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/templates/templater.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/templates/templater.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/templates/templates.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/templates/templates.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/term/resize.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/term/resize.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/term/term.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/term/term.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/term/term_writer.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/term/term_writer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/iamctl/util/term/term_writer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/iamctl/util/term/term_writer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/apiserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/apiserver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/authzserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/authzserver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/base.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/base.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/code.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/code.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/code_generated.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/code_generated.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/code/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/code/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/logger/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/logger/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/logger/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/logger/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/logger/sql.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/logger/sql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/logger/sql_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/logger/sql_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth/auto.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth/auto.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth/basic.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth/basic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/auth/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/auth/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/context.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/context.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/cors.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/cors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/limit.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/limit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/middleware.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/middleware.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/publish.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/publish.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/requestid.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/requestid.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/middleware/user_validation.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/middleware/user_validation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/authentication.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/authentication.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/etcd_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/etcd_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/feature.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/feature.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/grpc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/insecure_serving.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/insecure_serving.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/mysql_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/mysql_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/redis_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/redis_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/secure_serving.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/secure_serving.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/options/server_run_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/options/server_run_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/genericapiserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/genericapiserver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/health.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/health.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/signal.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/signal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/server/signal_posix.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/server/signal_posix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/gormutil/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/gormutil/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/gormutil/gorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/gormutil/gorm.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/gormutil/gorm_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/gormutil/gorm_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/reflect/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/reflect/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/reflect/reflect.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/reflect/reflect.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/util/reflect/reflect_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/util/reflect/reflect_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/validation/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/validation/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pkg/validation/validation.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pkg/validation/validation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/analytics/analytics.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/analytics/analytics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/analytics/analytics_filters.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/analytics/analytics_filters.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/analytics/analytics_filters_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/analytics/analytics_filters_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/analytics/analytics_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/analytics/analytics_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/config/config_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/config/config_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/config/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/config/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/options/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/options/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/options/validation.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/options/validation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/common.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/csv.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/csv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/dummy.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/dummy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/elasticsearch.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/elasticsearch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/influx.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/influx.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/init.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/kafka.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/kafka.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/mongo.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/mongo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/prometheus.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/prometheus.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/pump.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/pump.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/pump_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/pump_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/pumps/syslog.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/pumps/syslog.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/run.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/run.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/storage/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/storage/redis/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/storage/redis/redis_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/storage/redis/redis_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/pump/storage/store.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/pump/storage/store.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/config/config_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/config/config_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/config/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/config/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/options/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/options/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/options/validation.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/options/validation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/run.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/run.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/watcher.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/watcher.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/watcher/all/all.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/watcher/all/all.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/watcher/clean/watcher.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/watcher/clean/watcher.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/watcher/registry.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/watcher/registry.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/watcher/watcher/task/watcher.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/watcher/watcher/task/watcher.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/cmd.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/cmd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/flag.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/flag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/help.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/help.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/app/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/app/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/cli/genericclioptions/config_flags.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/cli/genericclioptions/config_flags.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/cli/genericclioptions/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/cli/genericclioptions/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/cli/genericclioptions/io_options.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/cli/genericclioptions/io_options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/db/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/db/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/db/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/db/mysql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/db/plugin.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/db/plugin.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/context.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/context.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/cronlog/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/cronlog/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/cronlog/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/cronlog/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/distribution/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/distribution/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/distribution/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/distribution/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/encoder.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/encoder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/context/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/context/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/context/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/context/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/example.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/example.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/simple/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/simple/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/simple/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/simple/simple.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/vlevel/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/vlevel/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/example/vlevel/v_level.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/example/vlevel/v_level.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/klog/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/klog/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/klog/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/klog/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/log_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/log_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/logrus/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/logrus/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/logrus/hook.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/logrus/hook.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/logrus/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/logrus/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/options_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/options_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/log/types.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/log/types.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/shutdown.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/shutdown.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/shutdown_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/shutdown_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/posixsignal.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/posixsignal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/posixsignal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/shutdown/shutdownmanagers/posixsignal/posixsignal_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/storage/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/storage/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/storage/redis_cluster.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/storage/redis_cluster.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/storage/storage.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/storage/storage.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/flag/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/flag/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/flag/flag.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/flag/flag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/genutil/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/genutil/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/genutil/genutil.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/genutil/genutil.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/genutil/genutil_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/genutil/genutil_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/validator/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/validator/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/validator/validator.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/validator/validator.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/jwt/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/jwt/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur128.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur128.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur32.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur32.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur32_legacy.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur32_legacy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur64.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur64.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_party/forked/murmur3/murmur_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/third_party/forked/murmur3/murmur_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/codegen/codegen.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/codegen/codegen.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/geniptables/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/geniptables/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/gentoken/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/gentoken/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/httptest/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/httptest/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -394,6 +180,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交iam" />
